@@ -1,4 +1,27 @@
-# Automating Data Loading from Google Cloud Storage to BigQuery using Cloud function
-
-
-This repository demonstrates the automation of data transfer from Google Cloud Storage to BigQuery.
+{
+    "BigQuery Schema": [{
+      "name": "id",
+      "type": "STRING"
+     },
+     {
+      "name": "first_name",
+      "type": "STRING"
+     },
+     {
+      "name": "last_name",
+      "type": "STRING"
+     },
+     {
+      "name": "email",
+      "type": "STRING"
+     },
+     {
+      "name": "age",
+      "type": "STRING"
+     },
+     {
+      "name": "city",
+      "type": "STRING"
+     }
+    ]
+   }
